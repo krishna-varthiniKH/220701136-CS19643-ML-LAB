@@ -6,7 +6,7 @@
 
 
 
-#python flask
+#python flask sample program
 from flask import Flask, request, render_template
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
